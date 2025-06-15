@@ -1,4 +1,5 @@
-# 🎬 Movie Review Sentiment Analysis using ANN
+# 🎬 SentiFlix 
+## Movie Reviews Sentiment Analyzer using RNN
 
 This project focuses on building a **binary classification model** to predict whether a movie review is **positive or negative** using deep learning techniques. The model leverages **word embeddings** and a **simple RNN** architecture.
 
